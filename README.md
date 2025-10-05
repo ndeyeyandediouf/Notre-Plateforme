@@ -1,1 +1,1 @@
-"Bienvenue sur la plateforme" 
+"Bienvenue sur Notre-Plateforme" 
